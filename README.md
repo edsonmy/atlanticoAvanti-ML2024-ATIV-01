@@ -47,6 +47,24 @@
 4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
 
     ***Usado para calcular a performance dos algoritmos de Machine Learning.***
+	
+    ***A performance é medida com os indicadores:***
+
+      ***- Acurácia;***
+
+      ***- Recall;***
+
+      ***- Precisão;***
+
+      ***- f-score;***
+
+      ***- True Positive Rate (TPR);***
+
+      ***- True Negative Rate (TNR);***
+
+      ***- False Positive Rate (FPR);***
+
+      ***- False Negative Rate (FNR);***
 
    
 5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
