@@ -46,5 +46,9 @@
 
 4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
 
+    ***Usado para calcular a performance dos algoritmos de Machine Learning.***
+
    
-8. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
+
+    ***Gostaria de aplicar primeiramente na área da saúde e depois na manufatura.***
